@@ -1,7 +1,7 @@
 {
-  "name": "my-rn-base-question",
+  "name": "my-rn-v-question-chondapan",
   "version": "1.0.0",
-  "description": "my-rn-base-question",
+  "description": "my-rn-v-question-chondapan",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

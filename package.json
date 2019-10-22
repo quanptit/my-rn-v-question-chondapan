@@ -1,24 +1,24 @@
 {
   "name": "my-rn-v-question-chondapan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my-rn-v-question-chondapan",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "install_npm": "yarn install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "ads"
   ],
   "author": "Quan Trinh Van",
-  "license": "Quan Trinh Van",
-  "nativePackage": true,
+  "license": "ISC",
+  "nativePackage": false,
   "dependencies": {
     "my-rn-base-question": "git+https://quanptit@bitbucket.org/reactnativelibs/my-rn-base-question.git",
-    "my-rn-clickable-zoom-image": "git+https://gitlab.com/react-native-my-libs/my-rn-clickable-zoom-image.git",
+    "my-rn-clickable-zoom-image": "^1.0.0",
     "my-rn-webview": "git+https://gitlab.com/react-native-my-libs/my-rn-webview.git"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "peerDependencies": {}
 }

@@ -1,6 +1,6 @@
 {
   "name": "my-rn-v-question-chondapan",
-  "version": "1.0.1",
+  "version": "1.0.1-1",
   "description": "my-rn-v-question-chondapan",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,9 +21,9 @@
   },
   "nativePackage": false,
   "dependencies": {
-    "my-rn-base-question": "^1.0.0",
-    "my-rn-clickable-zoom-image": "^1.0.0",
-    "my-rn-webview": "^1.0.0"
+    "my-rn-base-question": ">=1.0.0",
+    "my-rn-clickable-zoom-image": ">=1.0.0",
+    "my-rn-webview": ">=1.0.0"
   },
   "devDependencies": {},
   "peerDependencies": {}

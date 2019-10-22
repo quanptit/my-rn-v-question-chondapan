@@ -9,15 +9,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ads"
+    "react-native"
   ],
   "author": "Quan Trinh Van",
   "license": "ISC",
+  "homepage": "https://github.com/quanptit/my-rn-v-question-chondapan",
+  "bugs": "https://github.com/quanptit/my-rn-v-question-chondapan/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quanptit/my-rn-v-question-chondapan.git"
+  },
   "nativePackage": false,
   "dependencies": {
-    "my-rn-base-question": "git+https://quanptit@bitbucket.org/reactnativelibs/my-rn-base-question.git",
+    "my-rn-base-question": "^1.0.0",
     "my-rn-clickable-zoom-image": "^1.0.0",
-    "my-rn-webview": "git+https://gitlab.com/react-native-my-libs/my-rn-webview.git"
+    "my-rn-webview": "^1.0.0"
   },
   "devDependencies": {},
   "peerDependencies": {}
